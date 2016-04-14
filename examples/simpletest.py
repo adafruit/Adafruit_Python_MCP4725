@@ -7,9 +7,6 @@ import time
 # Import the MCP4725 module.
 import Adafruit_MCP4725
 
-import logging
-logging.basicConfig(level=logging.DEBUG)
-
 # Create a DAC instance.
 dac = Adafruit_MCP4725.MCP4725()
 
