@@ -1,1 +1,1 @@
-from MCP4725 import MCP4725
+from .MCP4725 import MCP4725
