@@ -1,4 +1,16 @@
-# Adafruit Python MCP4725
+DEPRECATED LIBRARY Adafruit Python MCP4725
+===================
+
+This library has been deprecated!
+
+we are now only using our circuitpython sensor libraries in python
+
+we are leaving the code up for historical/research purposes but archiving the repository.
+
+check out this guide for using the mcp4725 with python!
+https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial/python-circuitpython
+
+# 
 Python code to use the MCP4725 digital to analog converter with a Raspberry Pi or BeagleBone black.
 
 ## Installation
