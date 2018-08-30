@@ -27,7 +27,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: System :: Hardware']
 
 setup(name              = 'Adafruit_MCP4725',
-      version           = '1.0.3',
+      version           = '1.0.4',
       author            = 'Tony DiCola',
       author_email      = 'tdicola@adafruit.com',
       description       = 'Python code to use the MCP4725 digital to analog converter with a Raspberry Pi or BeagleBone black.',
